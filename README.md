@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Surya Dwi Prasetya!
 
-I'm a passionate and analytical individual deeply fascinated by the world of **data** and **artificial intelligence (AI)**. My journey into data began with a strong curiosity to uncover insights and build intelligent systems that drive innovation.
+I'm a passionate and analytical individual deeply fascinated by the world of **data** and **artificial intelligence (AI)**.
 
 ### 🚀 What I'm About
 
@@ -40,7 +40,7 @@ While my learning journey is continuous, here are some of the tools and technolo
 
 * **Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras basics)
 * **Databases:** SQL
-* **Visualization:** Matplotlib, Seaborn, Power BI (basics)
-* **Concepts:** Statistical Analysis, Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning Algorithms (Regression, Classification), Predictive Modeling.
+* **Visualization:** Matplotlib, Seaborn, Power BI, tableau
+* **Concepts:** Statistical Analysis, Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning Algorithms (Regression, Classification), Predictive Modeling, Deep learning
 
 ---
